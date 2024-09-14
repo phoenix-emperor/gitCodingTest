@@ -3,6 +3,10 @@ h1 {
   font-size: larger;
 }
 
+h2 {
+  color: chocolate;
+  font-size: large;
+}
 p {
   color: brown;
   font-size: large;
